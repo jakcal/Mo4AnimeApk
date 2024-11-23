@@ -4,5 +4,21 @@
     "date": "2024/04/25",
     "changes": ["Initial release"],
     "file": "android/Mo4Anime.1.0.0.apk"
+  },
+  {
+    "name": "2.0",
+    "date": "2024/11/23",
+    "changes": [
+      "Major Version Release",
+      "Custom video player instead of webplayer",
+      "Added Support for multiple providers",
+      "Added Support for multiple video sources",
+      "Nrgy & Lvl System",
+      "Full App Design change",
+      "Added Support for multiple languages",
+      "Added Support for multiple themes",
+      "Fixed issues with the player"
+    ],
+    "file": "android/Mo4Anime.2.0.apk"
   }
 ]
