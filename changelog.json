@@ -20,5 +20,15 @@
       "Fixed issues with the player"
     ],
     "file": "android/Mo4Anime.2.0.apk"
+  },
+  {
+    "name": "2.1[PATCH]",
+    "date": "2024/11/27",
+    "changes": [
+      "Fixed the Anime4up provider",
+      "Increased rewards for watching ads",
+      "Bug Fixes"
+    ],
+    "file": "android/Mo4AnimeV2.1.apk"
   }
 ]
