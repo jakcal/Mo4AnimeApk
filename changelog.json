@@ -43,5 +43,19 @@
      "Bug Fixes"
     ],
     "file": "android/Mo4AnimeV2.2.3.apk"
+  },
+  {
+    "name": "2.3",
+    "date": "2025/02/27-22:22",
+    "changes": [
+     "Added Auto Server Selection",
+     "Fixed WitAnime provider",
+     "Added Multi Server Support",
+     "Added Quality Control",
+     "Added Aspect Ratio Control",
+     "Major Bug Fixes based your users feedback",
+     "Bug Fixes"
+    ],
+    "file": "android/Mo4AnimeV2.3.apk"
   }
 ]
